@@ -3,9 +3,9 @@
 ## Implementación de Interfaces y uso de API locales para resolver problemas matemáticos.
 
 * **Integrantes:**
-* ETHAN SOTO.
-* VICTOR MACAS.
-* CAMILA CHIMBO.
+  ETHAN SOTO.
+  VICTOR MACAS.
+  CAMILA CHIMBO.
 
 * **Objetivo:**
 
