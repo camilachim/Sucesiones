@@ -59,7 +59,7 @@ public class Main {
                 break;
             }
             case (6): {
-
+                sucessionable = new PrimeEvenRootSeriesUpToLimit(limit);
                 break;
             }
             case (7): {
