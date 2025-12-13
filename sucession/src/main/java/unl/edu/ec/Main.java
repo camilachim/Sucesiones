@@ -54,8 +54,8 @@ public class Main {
 
                 break;
             }
-            case (5): {
-
+            case (5): {               
+                sucessionable = new PrimeOddPowerSeriesUpToLimit(limit);
                 break;
             }
             case (6): {
