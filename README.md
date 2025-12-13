@@ -2,7 +2,7 @@
 
 ## Implementación de Interfaces y uso de API locales para resolver problemas matemáticos.
 
-** Objetivo **
+** Objetivo
 
 Crear una clase Java para cada serie que implemente la interfaz Successionable para calcular 10 series matemáticas basadas en números primos y pares, modificando la clase Main para su ejecución.
 
