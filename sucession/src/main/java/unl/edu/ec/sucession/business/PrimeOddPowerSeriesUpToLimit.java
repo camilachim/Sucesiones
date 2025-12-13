@@ -2,6 +2,14 @@ package edu.unl.cc.jbeginners.sucession.business;
 
 import edu.unl.cc.jbeginners.math.domine.Sucessionable;
 
+/**
+ * Serie de primos elevados a impares hasta n térmimos 
+ * (S = S = 1^1 + 3^3 + 5^5 + 7^7 + 11^9 + 13^11 ..):
+ * @author chimbocamila29 (Camila Chimbo)
+ * @author Ethan Soto.
+ * @author DAVID-NNFG (Victor David Macas)
+ */
+
 public class PrimeOddPowerSeriesUpToLimit implements Sucessionable {
     private Integer limit;
     private Integer currentTerm;
@@ -77,5 +85,6 @@ public class PrimeOddPowerSeriesUpToLimit implements Sucessionable {
         return printableTerms.substring(0, printableTerms.length() - 3);
     }
 }
+
 
 
