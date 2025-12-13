@@ -62,9 +62,6 @@ public class Main {
 
                 break;
             }
-
-
-
             case (7): {
                 sucessionable = new PrimeNumberWithPowCalculatorWithTerm(limit);
                 break;
