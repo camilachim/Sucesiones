@@ -7,7 +7,7 @@
 Crear una clase Java para cada serie que implemente la interfaz Successionable para calcular 10 series matemáticas basadas en números primos y pares, modificando la clase Main para su ejecución.
 
 
-**Descripción:** 
+* **Descripción:** 
 
 La presente actividad tiene la finalidad de que apliquen el API definido para el cálculo de series. Para lo cual descargar el código del repositorio https://gitlab.com/poo-cc-unl/sep25-feb26/succession y definir la clase correspondiente de acuerdo a la siguiente ejecución:
 
