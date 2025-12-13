@@ -2,7 +2,12 @@
 
 ## Implementación de Interfaces y uso de API locales para resolver problemas matemáticos.
 
-* Objetivo
+* **Integrantes:**
+* ETHAN SOTO.
+* VICTOR MACAS.
+* CAMILA CHIMBO.
+
+* **Objetivo:**
 
 Crear una clase Java para cada serie que implemente la interfaz Successionable para calcular 10 series matemáticas basadas en números primos y pares, modificando la clase Main para su ejecución.
 
@@ -11,7 +16,7 @@ Crear una clase Java para cada serie que implemente la interfaz Successionable p
 
 La presente actividad tiene la finalidad de que apliquen el API definido para el cálculo de series. Para lo cual descargar el código del repositorio https://gitlab.com/poo-cc-unl/sep25-feb26/succession y definir la clase correspondiente de acuerdo a la siguiente ejecución:
 
-Elija la opción de la serie que desea calcular:
+* **Elija la opción de la serie que desea calcular:**
 
 1. Serie de numeros pares hasta un limite (S = 2 + 4 + 6 + 8 + ... N): 
 
