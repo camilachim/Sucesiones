@@ -2,6 +2,14 @@ package edu.unl.cc.jbeginners.sucession.business;
 
 import edu.unl.cc.jbeginners.math.domine.Sucessionable;
 
+/**
+ * Serie de primos elevados a la raiz de numeros pares hasta un limite 
+ * (S = 1^(1/2) + 3^(1/4) + 5^(1/6) + 7^(1/8) + 11^(1/10) + 13^(1/12) ... + N): 
+ * @author chimbocamila29 (Camila Chimbo)
+ * @author Ethan Soto.
+ * @author DAVID-NNFG (Victor David Macas)
+ */
+
 public class PrimeEvenRootSeriesUpToLimit implements Sucessionable {
     private Integer limit;
     private Integer currentTerm;
@@ -78,3 +86,4 @@ public class PrimeEvenRootSeriesUpToLimit implements Sucessionable {
         return printableTerms.substring(0, printableTerms.length() - 3);
     }
 }
+
